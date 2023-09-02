@@ -1,0 +1,34 @@
+#firstbox {
+    background-color: rgb(2, 67, 2);
+    color: white;
+    text-align: center;
+    height: 300px;
+    padding-top: 150px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#secondbox {
+    background-color: rgb(42, 41, 41);
+    color: white;
+}
+
+#navtins {
+    display: flex;
+    flex-flow: row;
+    height: 50px;
+    margin-top: 0px;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+#last {
+    margin-left: 1100px;
+}
